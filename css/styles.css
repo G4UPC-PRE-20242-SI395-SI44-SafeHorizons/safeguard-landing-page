@@ -287,3 +287,7 @@ span {
 .mb-xxl {
   margin-bottom: 48px;
 }
+
+.justify-center {
+  justify-content: center;
+}
